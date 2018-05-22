@@ -1,0 +1,29 @@
+body {
+  background-color: #202020;
+}
+
+main {
+  width: 80%;
+  min-height: 90vh;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #ececec;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+h1,
+h2 {
+  color: rgb(72, 120, 209);
+}
+
+li {
+    padding: 14px;
+    list-style: lower-greek
+}
+
+.metadata {
+  text-align: right;
+}
